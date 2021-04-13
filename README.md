@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @KevBoyz
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning Python3, Html, Css
+- 🌱 I’m currently learning Javascript
+- 🧠 I know Python3, Html, Css
 - 📫 How to reach me https://www.instagram.com/kevinho.algoritimos/
+- 🛠 I’m currently working on 'Web-Development' repository
 
 <!---
 KevBoyz/KevBoyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
