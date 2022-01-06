@@ -12,6 +12,7 @@
 ![](https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Ubuntu-E95420?&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Android-3ACC89?&logo=android&logoColor=white)
-![](https://img.shields.io/badge/Medium-12100E?&logo=medium&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-000000?&logo=markdown&logoColor=white)
+
