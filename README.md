@@ -1,4 +1,4 @@
-##  ~ iKevBoyz, seja bem vindo.
+##  ~ iKevBoyz, seja bem vindo
  <div>
   <a href="https://github.com/kevboyz">
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=kevboyz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -15,4 +15,5 @@
 ![](https://img.shields.io/badge/Ubuntu-E95420?&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Android-3ACC89?&logo=android&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-000000?&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/Port-7562-brightgreen)
 
