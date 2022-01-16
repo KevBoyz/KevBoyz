@@ -14,6 +14,5 @@
 ![](https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Android-3ACC89?&logo=android&logoColor=white)
-![](https://img.shields.io/badge/Markdown-000000?&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/Port-7562-brightgreen)
 
