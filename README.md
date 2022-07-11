@@ -5,7 +5,7 @@
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevboyz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
-![](https://komarev.com/ghpvc/?username=jonh&style=flat&color=004074)
+![](https://komarev.com/ghpvc/?username=kevboyz&style=flat&color=004074)
 ![](https://img.shields.io/badge/Python-14354C?&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-07405E?&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?&logo=html5&logoColor=white)
